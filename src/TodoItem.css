@@ -1,0 +1,20 @@
+.deleteButton {
+  float: right;
+  font-size: 18px;
+  color: #fff;
+  margin-top: -4px;
+  margin-left: 18px;
+}
+
+.checkBox {
+  position: absolute;
+  margin-right: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: #eee;
+}
+
+.done {
+  text-decoration: line-through;
+  color: #999;
+}
